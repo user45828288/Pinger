@@ -1,5 +1,5 @@
 # Pinger
-simple pinger with os
+pinger
 
 ### **Mentions**
 
